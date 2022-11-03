@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DainiusBanys
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning FrontEnd programming
+- 🌱 I’m currently learning FrontEnd 
 
 
 
